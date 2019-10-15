@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "describe": "App有最新版本请升级！",
+    "md5": "e26c45efdaf226b8f59f5dffa1a7d732",
+    "imageUrl": "https://jjrtools.com/1/v1/app/image/app_update.png",
+    "forced": "1",
+    "updateTime": 1563263838280,
+    "updateTimeString": "2019-09-7 15:57:18"
+}
