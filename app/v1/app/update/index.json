@@ -3,7 +3,7 @@
     "minAppVersion": "1.0.0",
     "describe": "App有最新版本请升级！",
     "md5": "e26c45efdaf226b8f59f5dffa1a7d732",
-    "imageUrl": "https://qushenqian.com/app/privacy.html",
+    "imageUrl": "https://qushenqian.com/v1/app/image/app_update.png",
     "forced": "1",
     "updateTime": 1563263838280,
     "updateTimeString": "2019-10-15 12:57:18"
